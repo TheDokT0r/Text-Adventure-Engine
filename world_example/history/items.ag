@@ -1,0 +1,6 @@
+items:
+    0:
+        name: Sword
+        price: 10
+        type: weapon
+        damage: 5

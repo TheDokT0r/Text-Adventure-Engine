@@ -1,0 +1,18 @@
+world:
+    currency: gold
+    currency_symbol: G
+    year: 940
+    month: 1
+    day: 1
+    hour: 11:00
+    
+player:
+    name: /player_choise #/player_choise == the player would choose in the begining of the game
+    starting_location: 0 # location id
+    starting_hp: 100
+    starting items: [
+        0, # item id
+        1, # item id
+        2, # item id
+    ]
+
